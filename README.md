@@ -82,6 +82,7 @@ A passionate Python Odoo Developer and AI & Data Scientist, focused on building 
 
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsahoo&show_icons=true&theme=radical)
 ![Ankit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitsahoo&theme=radical)
+
 ### 🐍 Python Stats
 You can add Python-specific stats by using a filter on the language or include specific contributions related to Python projects.
 
@@ -89,7 +90,7 @@ You can add Python-specific stats by using a filter on the language or include s
 
 <!-- Optional: Show Python-specific contributions -->
 ![Python Contributions](https://github-readme-stats.vercel.app/api/pin/?username=ankitsahoo&repo=your-python-repo-name)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=radical)
+
 
 ---
 
