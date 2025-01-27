@@ -88,9 +88,6 @@ You can add Python-specific stats by using a filter on the language or include s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=radical&langs_count=5)
 
-<!-- Optional: Show Python-specific contributions -->
-![Python Contributions](https://github-readme-stats.vercel.app/api/pin/?username=ankitsahoo&repo=your-python-repo-name)
-
 
 ---
 
