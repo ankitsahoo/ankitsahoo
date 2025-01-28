@@ -8,10 +8,11 @@ A passionate Python Odoo Developer and AI & Data Scientist, focused on building 
 
 ## 🚀 About Me
 
-- 🌍 I'm based in **India**
-- ✉️ Reach me at **ankitkumarsahoo7281@gmail.com**
-- 💡 Exploring **MLOps, GenAI, and Multicloud Cloud Platforms** (GCP, AWS, Azure)
-- 🔧 Specialized in **API Integrations**, **ChatBot Integration**, **Custom Odoo Modules**, **Machine Learning**, **GenAI**, **LLMs** and **AWS and Azure**
+- 🌍 I'm based in **India**.
+- 💼 Currently working in **CGI** and having Overall +2 years of experince as **Python and odoo Developer**.
+- ✉️ Reach me at **ankitkumarsahoo7281@gmail.com**.
+- 💡 Exploring **MLOps, GenAI, and Multicloud Cloud Platforms** (GCP, AWS, Azure).
+- 🔧 Specialized in **API Integrations**, **ChatBot Integration**, **Custom Odoo Modules**, **Machine Learning**, **GenAI**, **LLMs** and **AWS and Azure**.
 
 ---
 
