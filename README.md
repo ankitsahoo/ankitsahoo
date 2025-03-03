@@ -21,53 +21,79 @@ A passionate Python Odoo Developer and AI & Data Scientist, focused on building 
 ### 💻 Programming Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Odoo 17](https://img.shields.io/badge/Odoo%2017-4B0082?style=for-the-badge&logo=odoo&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-6A4CFF?style=for-the-badge&logo=grpc&logoColor=white)
 
 ### ⚙️ Tools & Technologies
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 💡 AI/ML & GenAI Technologies
-
+![XGBoost](https://img.shields.io/badge/XGBoost-3E6F5C?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-4D4D4D?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF2D20?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00E5FF?style=for-the-badge&logo=langchain&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-8C4E00?style=for-the-badge&logo=onnx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-00D7AC?style=for-the-badge&logo=kubeflow&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
 
-### 🔧 Specialized AI/ML Models
+### 💡 AI/ML & GenAI Technologies
 
-- **LLMs**: GPT, BERT, T5, Google Gemini, LLaMA
-- **Deep Learning**: CNNs, RNNs, GANs, Transformers
-- **NLP**: NER, Sentiment Analysis
-- **Model Optimization**: Fine-tuning, Quantization
+![GPT](https://img.shields.io/badge/GPT-5C5C5C?style=for-the-badge&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-EE0000?style=for-the-badge&logo=bert&logoColor=white)
+![T5](https://img.shields.io/badge/T5-7F7F7F?style=for-the-badge&logo=t5&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-5F6368?style=for-the-badge&logo=llama&logoColor=white)
+
+- **Deep Learning**: CNNs, RNNs, GANs, Transformers, Autoencoders
+- **Natural Language Processing (NLP)**: Sentiment Analysis, NER, Text Summarization
+- **AI for Finance & E-commerce**: Fraud Detection, Risk Modeling, Recommendation Systems, Demand Forecasting
+- **Explainable AI (XAI)**: SHAP, LIME
 
 ### 🧠 Data Engineering & Cloud
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-4B4BF5?style=for-the-badge&logo=snowflake&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-CC0000?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
 ### 📊 Data Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-CA5010?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-5A5A5A?style=for-the-badge&logo=looker&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008ACD?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9E6A4D?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3D4A77?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🔧 DevOps & CI/CD
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-66A8A9?style=for-the-badge&logo=argo&logoColor=white)
+
+### 📂 Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-1C1C1C?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+
+### 📝 Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
