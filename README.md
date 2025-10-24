@@ -9,10 +9,10 @@ A passionate Python Developer and AI & Data Scientist, focused on building smart
 ## 🚀 About Me
 
 - 🌍 I'm based in **India**.
-- 💼 Currently working in **CGI** and having Overall +2 years of experince as **Python and odoo Developer**.
+- 💼 Currently working in **CGI** and having Overall +3 years of experince as **Python GenAI Developer**.
 - ✉️ Reach me at **ankitkumarsahoo7281@gmail.com**.
 - 💡 Exploring **MLOps, GenAI, and Multicloud Cloud Platforms** (GCP, AWS, Azure).
-- 🔧 Specialized in **API Integrations**, **ChatBot Integration**, **Custom Odoo Modules**, **Machine Learning**, **GenAI**, **LLMs** and **AWS and Azure**.
+- 🔧 Specialized in **Python**, **FastAPI**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Neural Network**, **NLP**, **GenAI**, **LLMs**, **RAG**, **Agentic AI**, **MLOPS, LLMOPS, AIOPS**, **AWS, Azure, GCP**, **Pyspark**, **Data Factory**, **Azure AI**, **Azure Data Engineering**
 
 ---
 
@@ -70,14 +70,6 @@ A passionate Python Developer and AI & Data Scientist, focused on building smart
 ![Seaborn](https://img.shields.io/badge/Seaborn-9E6A4D?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3D4A77?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🔧 DevOps & CI/CD
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-66A8A9?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📂 Databases & Storage
 
@@ -94,6 +86,78 @@ A passionate Python Developer and AI & Data Scientist, focused on building smart
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### 🤖 Agentic AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0048BA?style=for-the-badge\&logo=graph\&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-006400?style=for-the-badge\&logo=ai\&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF6F00?style=for-the-badge\&logo=autodesk\&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge\&logo=robotframework\&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-2E8B57?style=for-the-badge\&logo=data\:image/svg+xml;base64,\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+---
+
+### 🧠 Generative AI
+
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=for-the-badge\&logo=google\&logoColor=white)
+![OpenAI Fine-tuning](https://img.shields.io/badge/OpenAI%20Fine--tuning-1E90FF?style=for-the-badge\&logo=openai\&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-9932CC?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF4500?style=for-the-badge\&logo=stabilityai\&logoColor=white)
+
+---
+
+### 🔍 Retrieval-Augmented Generation (RAG)
+
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0066CC?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge\&logo=facebook\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFD700?style=for-the-badge\&logo=databricks\&logoColor=black)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-7B68EE?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-2E8B57?style=for-the-badge\&logo=graphql\&logoColor=white)
+
+---
+
+### 🧬 Large Language Models (LLMs)
+
+![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD55A?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-2A52BE?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![T5](https://img.shields.io/badge/T5-4682B4?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-FF69B4?style=for-the-badge\&logo=meta\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFD700?style=for-the-badge\&logo=anthropic\&logoColor=black)
+
+### 🛠️ MLOps
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge\&logo=dvc\&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF8800?style=for-the-badge\&logo=dagshub\&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge\&logo=prefect\&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge\&logo=weightsandbiases\&logoColor=black)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-00D7AC?style=for-the-badge\&logo=kubeflow\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+---
+
+### 🤖 LLM Ops
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0048BA?style=for-the-badge\&logo=graph\&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0066CC?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge\&logo=facebook\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFD700?style=for-the-badge\&logo=databricks\&logoColor=black)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-7B68EE?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD55A?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=for-the-badge\&logo=google\&logoColor=white)
+![OpenAI Fine-tuning](https://img.shields.io/badge/OpenAI%20Fine--tuning-1E90FF?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
@@ -114,7 +178,6 @@ A passionate Python Developer and AI & Data Scientist, focused on building smart
 You can add Python-specific stats by using a filter on the language or include specific contributions related to Python projects.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=radical&langs_count=5)
-
 
 ---
 
