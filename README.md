@@ -3,14 +3,14 @@
 ## I'm **Ankit Kumar Sahoo**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/main/assests/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" alt="AI Developer Banner" width="900" />
+  <img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/main/assests/gif.gif" alt="AI Developer Banner" width="900"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+There!+👋+I'm+Ankit+Kumar+Sahoo;Python+GenAI+Developer+%7C+AI+%26+Data+Scientist;Building+Smart+%26+Scalable+AI+Solutions;Exploring+MLOps+%7C+GenAI+%7C+LLMOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=800&color=gradient(1E90FF,FF1493)&center=true&vCenter=true&width=850&lines=👋+Hi+There!+I'm+Ankit+Kumar+Sahoo;🚀+Python+GenAI+Developer+%7C+AI+%26+Data+Scientist;💡+Building+Smart+%26+Scalable+AI+Solutions;🤖+Exploring+MLOps+%7C+GenAI+%7C+LLMOps)](https://git.io/typing-svg)
 
 💡 A passionate **Python GenAI Developer** and **AI & Data Scientist**, focused on building smart, scalable, and impactful AI-driven systems.
 
