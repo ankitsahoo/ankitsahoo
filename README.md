@@ -3,7 +3,7 @@
 ## I'm **Ankit Kumar Sahoo**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/main/assets/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" alt="AI Developer Banner" width="900"/>
+  <img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/main/assests/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" alt="AI Developer Banner" width="900" />
 </p>
 
 ---
