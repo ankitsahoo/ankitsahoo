@@ -2,7 +2,7 @@
 
 **I'm Ankit Kumar Sahoo**
 
-A passionate Python Developer and AI & Data Scientist, focused on building smart solutions that enhance business performance and scalability.
+A passionate Python GenAI Developer and AI & Data Scientist, focused on building smart solutions that enhance business performance and scalability.
 
 ---
 
