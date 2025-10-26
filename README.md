@@ -2,6 +2,11 @@
 
 **I'm Ankit Kumar Sahoo**
 
+<p align="center">
+  <img src="https://github.com/ankitsahoo/ankitsahoo/blob/main/assets/ai-coding.gif" alt="AI Developer Banner" width="900"/>
+</p>
+
+
 A passionate Python GenAI Developer and AI & Data Scientist, focused on building smart solutions that enhance business performance and scalability.
 
 ---
