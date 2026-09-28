@@ -4,28 +4,24 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-     width="60"
-     alt="Hello"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="60" alt="Hello"/>
 
 # 👋 Hi, I'm **Ankit Kumar Sahoo**
 
 ### 🤖 AI & GenAI Product Manager | AI & GenAI Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Enterprise+AI+Products;Generative+AI+%7C+Agentic+AI+%7C+Advanced+RAG;Multi-Agent+Systems+%7C+MCP+%7C+AI+Architecture;Turning+AI+Ideas+into+Production+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Enterprise+AI+Products;Generative+AI+%7C+Agentic+AI+%7C+Advanced+RAG;Multi-Agent+Systems+%7C+MCP+%7C+AI+Architecture;Turning+AI+Ideas+into+Production+Products" alt="Typing animation"/>
 
 <br/>
 
 <a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img alt="View My Portfolio" src="https://img.shields.io/badge/%F0%9F%9A%80%20VIEW%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-
 <a href="https://www.linkedin.com/in/ankit-kumar-sahoo7281/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
 </a>
-
 <a href="mailto:ankitkumarsahoo7281@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -38,10 +34,7 @@
 
 ## 🧠 About Me
 
-<img align="right"
-     src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"
-     width="260"
-     alt="AI Animation"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="260" alt="AI Animation"/>
 
 I am an **AI Technology Analyst** with **4+ years of experience building enterprise AI and Generative AI solutions**, currently transitioning toward **AI & GenAI Product Management and AI/GenAI Architecture**.
 
@@ -85,8 +78,7 @@ My focus is on building **scalable enterprise AI products** that combine busines
 
 ### Core Technologies
 
-`Azure AI Search` `Azure OpenAI` `GPT-4 Vision` `GPT-5` `MCP`
-`Advanced RAG` `BGE Reranker` `Redis` `FastAPI` `Python` `AKS`
+`Azure AI Search` `Azure OpenAI` `GPT-4 Vision` `GPT-5` `MCP` `Advanced RAG` `BGE Reranker` `Redis` `FastAPI` `Python` `AKS`
 
 ---
 
@@ -119,27 +111,27 @@ My focus is on building **scalable enterprise AI products** that combine busines
 <tr>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70"/><br>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" alt="Python"/><br>
 <b>Python</b>
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70"/><br>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" alt="Java"/><br>
 <b>Java</b>
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70"/><br>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" alt="Docker"/><br>
 <b>Docker</b>
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70"/><br>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" alt="Kubernetes"/><br>
 <b>Kubernetes</b>
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70"/><br>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" alt="GitHub"/><br>
 <b>GitHub</b>
 </td>
 
@@ -154,7 +146,7 @@ My focus is on building **scalable enterprise AI products** that combine busines
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
+<img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
 
 </div>
 
@@ -184,11 +176,11 @@ My focus is on building **scalable enterprise AI products** that combine busines
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agent%20Orchestration-00BCD4?style=for-the-badge"/>
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge"/>
+<img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge"/>
+<img alt="MCP" src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+<img alt="Agent Orchestration" src="https://img.shields.io/badge/Agent%20Orchestration-00BCD4?style=for-the-badge"/>
 
 </div>
 
@@ -248,17 +240,12 @@ My focus is on building **scalable enterprise AI products** that combine busines
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-
-<img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+<img alt="Azure AI Search" src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
+<img alt="FAISS" src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge"/>
+<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
 
 </div>
 
@@ -268,7 +255,7 @@ My focus is on building **scalable enterprise AI products** that combine busines
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes" alt="Cloud icons"/>
 
 </div>
 
@@ -312,27 +299,27 @@ My focus is on building **scalable enterprise AI products** that combine busines
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>
+<img src="https://skillicons.dev/icons?i=postgres" width="60" alt="PostgreSQL"/><br>
 PostgreSQL
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" alt="MySQL"/><br>
 MySQL
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
+<img src="https://skillicons.dev/icons?i=mongodb" width="60" alt="MongoDB"/><br>
 MongoDB
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=redis" width="60"/><br>
+<img src="https://skillicons.dev/icons?i=redis" width="60" alt="Redis"/><br>
 Redis
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=kafka" width="60"/><br>
+<img src="https://skillicons.dev/icons?i=kafka" width="60" alt="Kafka"/><br>
 Kafka
 </td>
 
@@ -347,11 +334,11 @@ Kafka
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Product%20Management-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product%20Strategy-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product%20Discovery-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product%20Roadmap-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Architecture-7C3AED?style=for-the-badge"/>
+<img alt="AI Product Management" src="https://img.shields.io/badge/AI%20Product%20Management-6C63FF?style=for-the-badge"/>
+<img alt="Product Strategy" src="https://img.shields.io/badge/Product%20Strategy-00BCD4?style=for-the-badge"/>
+<img alt="Product Discovery" src="https://img.shields.io/badge/Product%20Discovery-FF6B6B?style=for-the-badge"/>
+<img alt="Product Roadmap" src="https://img.shields.io/badge/Product%20Roadmap-4CAF50?style=for-the-badge"/>
+<img alt="AI Architecture" src="https://img.shields.io/badge/AI%20Architecture-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -425,142 +412,181 @@ Design Agent
 Feedback Agent
        ↓
 Reviewer Agent
+```
 
-Technology
+### Technology
 
-LangGraph · LangChain · GPT-4 · Claude · FAISS · FastAPI
+`LangGraph` · `LangChain` · `GPT-4` · `Claude` · `FAISS` · `FastAPI`
 
-📈 Impact
+### 📈 Impact
 
-60% SDLC Activities Automated
+- **60%** SDLC Activities Automated
+- **71% → 89%** Retrieval Accuracy
+- **35%** Developer Cycle-Time Reduction
 
-71% → 89% Retrieval Accuracy
+---
 
-35% Developer Cycle-Time Reduction
+## 03 — AstraRAG
 
-03 — AstraRAG
-🔍 Production Agentic RAG Chatbot
+### 🔍 Production Agentic RAG Chatbot
 
 A production-oriented Agentic RAG system using multi-agent reasoning and semantic retrieval.
 
-Technology
+### Technology
 
-CrewAI · LlamaIndex · ChromaDB · Groq · Llama 3.3 70B · AWS EC2
+`CrewAI` · `LlamaIndex` · `ChromaDB` · `Groq` · `Llama 3.3 70B` · `AWS EC2`
 
-📈 Impact
+### 📈 Impact
 
-92% Retrieval Accuracy
+- **92%** Retrieval Accuracy
+- **4.2s → 2.5s** Latency
 
-4.2s → 2.5s Latency
+---
 
-04 — Azure Multi-Modal Compliance Engine
-🎥 AI-Powered Video & Transcript Compliance
-Technology
+## 04 — Azure Multi-Modal Compliance Engine
 
-Azure Video Indexer
+### 🎥 AI-Powered Video & Transcript Compliance
 
-Azure AI Search
+### Technology
 
-LangGraph
+`Azure Video Indexer` · `Azure AI Search` · `LangGraph` · `GPT-4o` · `LangSmith` · `Azure App Insights`
 
-GPT-4o
+### 📈 Impact
 
-LangSmith
+- **70%** Manual Review Time Reduction
+- **3 Hours → 12 Minutes** Agent-Failure Detection
 
-Azure App Insights
+---
 
-📈 Impact
+## 05 — Realtime Voice AI Agent
 
-70% Manual Review Time Reduction
+### 🎙️ Low-Latency Voice RAG Assistant
 
-3 Hours → 12 Minutes Agent-Failure Detection
+### Technology
 
-05 — Realtime Voice AI Agent
-🎙️ Low-Latency Voice RAG Assistant
-Technology
+`Deepgram` · `Groq` · `ElevenLabs` · `Pinecone` · `FastAPI` · `WebSockets` · `VAD`
 
-Deepgram · Groq · ElevenLabs
+### 📈 Impact
 
-Pinecone · FastAPI · WebSockets · VAD
+- **&lt;800ms** End-to-End Latency
 
-📈 Impact
+---
 
-<800ms End-to-End Latency
+## 06 — AI Financial Assistant
 
-06 — AI Financial Assistant
-💰 AI-Powered Financial Intelligence
+### 💰 AI-Powered Financial Intelligence
 
-GPT-4o · Azure AI Foundry · React · FastAPI
+`GPT-4o` · `Azure AI Foundry` · `React` · `FastAPI`
 
-📈 Impact
+### 📈 Impact
 
-34% Accuracy Improvement
+- **34%** Accuracy Improvement
 
-07 — Medical RAG Chatbot
-🏥 Multimodal Medical Knowledge Assistant
+---
 
-Mistral · LangChain · FAISS · Python
+## 07 — Medical RAG Chatbot
 
-📈 Impact
+### 🏥 Multimodal Medical Knowledge Assistant
 
-50% Accuracy Improvement
+`Mistral` · `LangChain` · `FAISS` · `Python`
 
-🌐 MY PORTFOLIO
+### 📈 Impact
+
+- **50%** Accuracy Improvement
+
+---
+
+## 🌐 My Portfolio
+
 <div align="center">
-🚀 Explore My AI Product Portfolio
-<a href="https://ankit-kumar-sahoo-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/🚀%20OPEN%20AI%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/> </a>
+
+### 🚀 Explore My AI Product Portfolio
+
+<a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
+  <img alt="Open AI Portfolio" src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20AI%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
 <br/><br/>
 
 Interactive portfolio showcasing:
 
-AI Product Management
+AI Product Management • Generative AI • Agentic AI • Advanced RAG • Multi-Agent Systems • AI Architecture • Enterprise AI
 
-Generative AI
-
-Agentic AI
-
-Advanced RAG
-
-Multi-Agent Systems
-
-AI Architecture
-
-Enterprise AI
-
-🔗
-
-https://ankit-kumar-sahoo-portfolio.vercel.app/
+🔗 https://ankit-kumar-sahoo-portfolio.vercel.app/
 
 </div>
-🏆 Certifications
+
+---
+
+## 🏆 Certifications
+
 <div align="center">
 
-🏅 SAFe® 6 Agile Certified
+🏅 **SAFe® 6 Agile Certified**
 
 Scaled Agile
 
 <br/>
 
-☁️ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+☁️ **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
 Oracle
 
 </div>
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitsahoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsahoo&theme=tokyonight&hide_border=true" height="180"/> </div> <br/> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </div>
-🐍 Contribution Graph
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitsahoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=ankitsahoo&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+## 🐍 Contribution Graph
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-⚡ Animated Technology Stack
-<div align="center"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70"/> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="70"/> <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70"/> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70"/> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70"/> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70"/> </div> <p align="center"> <b>Python • Java • Docker • Kubernetes • MySQL • GitHub</b> </p>
-🧠 AI Stack
-<div align="center"> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Advanced%20RAG-00BCD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Multi--Agent%20Systems-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/> </div>
 
-📚 What I Build
+## ⚡ Animated Technology Stack
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" alt="Python"/>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" alt="Java"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" alt="Docker"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" alt="Kubernetes"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" alt="MySQL"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" alt="GitHub"/>
+
+<p><b>Python • Java • Docker • Kubernetes • MySQL • GitHub</b></p>
+
+</div>
+
+## 🧠 AI Stack
+
+<div align="center">
+
+<img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge"/>
+<img alt="Advanced RAG" src="https://img.shields.io/badge/Advanced%20RAG-00BCD4?style=for-the-badge"/>
+<img alt="Multi-Agent Systems" src="https://img.shields.io/badge/Multi--Agent%20Systems-8E44AD?style=for-the-badge"/>
+<img alt="MCP" src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+
+</div>
+
+## 📚 What I Build
+
+```text
                     ┌─────────────────────────┐
                     │       AI PRODUCT        │
                     └────────────┬────────────┘
@@ -580,28 +606,61 @@ Oracle
                                  │
                                  ▼
                          Production AI Product
+```
 
-🔗 Connect With Me
-<div align="center"> <a href="https://github.com/ankitsahoo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/ankit-kumar-sahoo7281/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ankitkumarsahoo7281@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://ankit-kumar-sahoo-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/> </a> </div>
-👀 Profile Views
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ankitsahoo&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/> </div>
+## 🔗 Connect With Me
+
 <div align="center">
-🚀 Turning AI Ideas Into Enterprise Products
 
-Generative AI • Agentic AI • Advanced RAG • Multi-Agent Systems • AI Product Management
+<a href="https://github.com/ankitsahoo">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ankit-kumar-sahoo7281/">
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
+</a>
+<a href="mailto:ankitkumarsahoo7281@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
-<br/>
-
-💡 "AI is not just about building models. It's about building products that solve real problems."
-
-<br/>
-✨ Let's Build Something Intelligent Together.
 </div>
-☕ Support
-<div align="center"> <a href="https://www.buymeacoffee.com/AnkitKumar"> <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-F7CA00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/> </a>
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ankitsahoo&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+## 🚀 Turning AI Ideas Into Enterprise Products
+
+**Generative AI • Agentic AI • Advanced RAG • Multi-Agent Systems • AI Product Management**
+
+<br/>
+
+💡 *"AI is not just about building models. It's about building products that solve real problems."*
+
+<br/>
+
+✨ **Let's Build Something Intelligent Together.**
+
+</div>
+
+## ☕ Support
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/AnkitKumar">
+  <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/%E2%98%95%20Buy%20Me%20A%20Coffee-F7CA00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
 
 <br/><br/>
 
 ✨ Thanks for visiting my profile!
 
-</div> ```
+</div>
