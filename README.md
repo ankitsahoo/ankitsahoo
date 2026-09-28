@@ -1,32 +1,55 @@
-# 👋 Hi, I'm Ankit Kumar Sahoo
+<!-- ========================================================= -->
+<!--                     HELLO BANNER                         -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+GenAI+Product+Manager;AI+%26+GenAI+Architect;Building+Enterprise+AI+Products;Agentic+AI+%7C+Advanced+RAG+%7C+Multi-Agent+Systems" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20View%20My%20Portfolio-00D9FF?style=for-the-badge&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-sahoo7281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ankitsahoo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+     width="60"
+     alt="Hello"/>
+
+# 👋 Hi, I'm **Ankit Kumar Sahoo**
+
+### 🤖 AI & GenAI Product Manager | AI & GenAI Architect
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Enterprise+AI+Products;Generative+AI+%7C+Agentic+AI+%7C+Advanced+RAG;Multi-Agent+Systems+%7C+MCP+%7C+AI+Architecture;Turning+AI+Ideas+into+Production+Products" />
+
+<br/>
+
+<a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankit-kumar-sahoo7281/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ankitkumarsahoo7281@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
 ## 🧠 About Me
+
+<img align="right"
+     src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"
+     width="260"
+     alt="AI Animation"/>
 
 I am an **AI Technology Analyst** with **4+ years of experience building enterprise AI and Generative AI solutions**, currently transitioning toward **AI & GenAI Product Management and AI/GenAI Architecture**.
 
-I work across the complete AI product lifecycle — from **problem discovery, requirements and product strategy to AI architecture, roadmap, agent orchestration, advanced RAG, experimentation, optimization and production deployment**.
+I work across the complete AI product lifecycle — from **problem discovery, requirements and product strategy to architecture, roadmap, agent orchestration, Advanced RAG, evaluation, optimization and production deployment**.
 
-My core focus is building **scalable enterprise AI products** using Generative AI, Agentic AI, Multi-Agent Systems, MCP and Advanced RAG.
+My focus is on building **scalable enterprise AI products** that combine business requirements with modern AI architectures.
 
-### What I work on
+### 🎯 Core Focus
 
 - 🤖 Generative AI & LLM Applications
 - 🧠 Agentic AI & AI Agents
@@ -34,170 +57,319 @@ My core focus is building **scalable enterprise AI products** using Generative A
 - 🔍 Advanced RAG & Enterprise Search
 - 🏗️ AI Product Architecture
 - 📋 Product Discovery & Requirements
-- 🗺️ Product Roadmaps & Prioritization
+- 🗺️ Product Roadmap & Prioritization
 - 🎯 AI Product Strategy
-- 🔄 AI Agent Orchestration
+- 🔄 Agent Orchestration
 - 🌐 MCP & Tool-Using Agents
 - 📊 AI Evaluation & Optimization
 - ☁️ Enterprise Cloud AI
 
+<br clear="right"/>
+
 ---
 
-## 🚀 Career
+# 💼 Professional Experience
 
-### 🏢 Infosys
-**AI Technology Analyst | AI & GenAI Solutions**
+## 🏢 Infosys
+
+### AI Technology Analyst | AI & GenAI Solutions
 
 `Dec 2025 – Present`
 
-- Leading **AnswerSmart**, a 0→1 multilingual enterprise AI/RAG product.
-- Working across product requirements, roadmap, AI architecture and production deployment.
-- Designed enterprise retrieval and agentic document-processing workflows.
-- Working with **Azure AI Search, Azure OpenAI, GPT-4 Vision, MCP, Advanced RAG and BGE reranking**.
-- Bridging technical architecture with enterprise product requirements and stakeholder expectations.
+- 🚀 Leading **AnswerSmart**, a 0→1 multilingual enterprise AI/RAG platform.
+- 📋 Working across requirements, product roadmap, AI architecture and deployment.
+- 🧠 Designed agentic document-processing workflows for enterprise knowledge.
+- 🔍 Working with Advanced RAG including hybrid retrieval, reranking and semantic caching.
+- 🌐 Building English/Japanese cross-lingual enterprise retrieval capabilities.
+- 🤝 Bridging business requirements, product decisions and technical architecture.
 
-### 🏢 CGI
-**GenAI / AI Product Development**
+### Core Technologies
+
+`Azure AI Search` `Azure OpenAI` `GPT-4 Vision` `GPT-5` `MCP`
+`Advanced RAG` `BGE Reranker` `Redis` `FastAPI` `Python` `AKS`
+
+---
+
+## 🏢 CGI
+
+### GenAI / AI Product Development
 
 `Jul 2022 – Nov 2025`
 
-- Built and shipped **DevX Copilot**, a 0→1 multi-agent GenAI product.
-- Automated approximately **60% of targeted SDLC activities** across engineering teams.
-- Designed multi-agent orchestration using **LangGraph and LangChain**.
-- Implemented RAG over **10K+ engineering documents**.
-- Improved retrieval accuracy from **71% → 89%**.
-- Reduced developer cycle time by approximately **35%**.
+- 🚀 Built and shipped **DevX Copilot**, a 0→1 multi-agent GenAI product.
+- 🤖 Automated approximately **60% of targeted SDLC activities**.
+- 🔗 Designed multi-agent orchestration using **LangGraph and LangChain**.
+- 📚 Implemented RAG over **10K+ engineering documents**.
+- 📈 Improved retrieval accuracy from **71% → 89%**.
+- ⚡ Reduced developer cycle time by approximately **35%**.
+
+### Core Technologies
+
+`LangGraph` `LangChain` `GPT-4` `Claude` `FAISS` `FastAPI` `Python`
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ TECHNICAL SKILLS
 
-## 👨‍💻 Languages & Engineering
+## 🐍 Programming & Engineering
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,graphql,git,github,linux,vscode" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70"/><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70"/><br>
+<b>Java</b>
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70"/><br>
+<b>Kubernetes</b>
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70"/><br>
+<b>GitHub</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🤖 Generative AI & LLMs
+# 🤖 Generative AI
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,pytorch" />
-</p>
+<div align="center">
 
-### Core AI Technologies
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
 
-`Generative AI` · `LLMs` · `Prompt Engineering` · `AI Agents` · `Agentic AI` · `Multi-Agent Systems` · `LLM Applications` · `AI Evaluation`
+</div>
 
-### LLM Ecosystem
+### 🧠 LLM Ecosystem
 
-- OpenAI / Azure OpenAI
-- GPT-4 / GPT-4o / GPT-5
-- Claude
-- Gemini
-- Ollama
-- Groq
-- Hugging Face
+`OpenAI` · `Azure OpenAI` · `GPT-4` · `GPT-4o` · `GPT-5`
 
-### Agent Frameworks
+`Claude` · `Gemini` · `Groq` · `Ollama` · `Hugging Face`
 
-- LangGraph
-- LangChain
-- CrewAI
-- Agent Orchestration
-- Tool Calling
-- MCP
+### ⚙️ AI Engineering
+
+- `Generative AI`
+- `Prompt Engineering`
+- `LLM Applications`
+- `AI Agents`
+- `Agentic AI`
+- `Multi-Agent Systems`
+- `Tool Calling`
+- `MCP`
+- `AI Evaluation`
 
 ---
 
-## 🔍 Advanced RAG
+# 🔗 Agentic AI & Multi-Agent Systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 🧩 Frameworks
 
-`Hybrid Search` · `Vector Search` · `BM25` · `Semantic Search` · `Semantic Ranking`
+<div align="center">
 
-`Query Rewriting` · `Query Expansion` · `Cross-Lingual Retrieval`
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agent%20Orchestration-00BCD4?style=for-the-badge"/>
 
-`Reranking` · `Semantic Caching` · `Metadata Filtering`
+</div>
 
-`Structure-Aware Chunking` · `Multimodal RAG` · `Agentic RAG`
+### 🔄 Architecture Concepts
 
-### Vector & Search Technologies
+`Planner → Executor → Reviewer`
 
-- Azure AI Search
-- Milvus
-- FAISS
-- ChromaDB
-- Pinecone
-- Vector Databases
-- Knowledge Graph concepts
+`Tool Calling`
+
+`Memory`
+
+`Agent Routing`
+
+`Human-in-the-Loop`
+
+`Multi-Agent Collaboration`
+
+`Guardrails`
+
+`Agent Evaluation`
+
+---
+
+# 🔍 Advanced RAG
+
+## Retrieval Architecture
+
+`Hybrid Search`
+
+`Vector Search`
+
+`BM25`
+
+`Semantic Search`
+
+`Semantic Ranking`
+
+`Query Rewriting`
+
+`Query Expansion`
+
+`Cross-Lingual Retrieval`
+
+`Reranking`
+
+`Semantic Caching`
+
+`Metadata Filtering`
+
+`Structure-Aware Chunking`
+
+`Multimodal RAG`
+
+`Agentic RAG`
+
+### 🗄️ Search & Vector Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+<img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+
+</div>
 
 ---
 
 # ☁️ Cloud & AI Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes" />
-</p>
+<div align="center">
 
-### Cloud
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes" />
 
-`Microsoft Azure` · `AWS` · `GCP`
+</div>
 
-### Azure AI
+### Microsoft Azure
 
-- Azure AI Search
-- Azure OpenAI
-- Azure AI Foundry
-- Azure Document Intelligence
-- Azure Video Indexer
-- Azure App Insights
-- Azure Key Vault
+`Azure AI Search`
+
+`Azure OpenAI`
+
+`Azure AI Foundry`
+
+`Azure Document Intelligence`
+
+`Azure Video Indexer`
+
+`Azure App Insights`
+
+`Azure Key Vault`
 
 ### AWS
 
-- AWS EC2
-- AWS CodePipeline
-- Amazon Bedrock concepts
+`AWS EC2`
+
+`AWS CodePipeline`
+
+`Amazon Bedrock`
+
+### Google Cloud
+
+`GCP`
+
+`Cloud AI Services`
 
 ---
 
-# 🧩 Data, Databases & Infrastructure
+# 🗄️ Databases & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,kubernetes" />
-</p>
+<div align="center">
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
+<table>
+<tr>
 
-`Vector Databases` · `Caching` · `REST APIs` · `FastAPI`
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>
+PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>
+MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
+MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="60"/><br>
+Redis
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kafka" width="60"/><br>
+Kafka
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 📊 Product Management & AI Product Skills
+# 📊 AI Product Management
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Product%20Management-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Strategy-00BCD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Discovery-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Roadmap-4CAF50?style=for-the-badge" />
-</p>
+<div align="center">
 
-- AI Product Strategy
+<img src="https://img.shields.io/badge/AI%20Product%20Management-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Strategy-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Discovery-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Roadmap-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Architecture-7C3AED?style=for-the-badge"/>
+
+</div>
+
+### 🎯 Product Capabilities
+
 - Product Discovery
+- Business Problem Definition
 - Requirements Gathering
 - PRD / Product Documentation
+- Product Strategy
 - Product Roadmap
 - Prioritization
 - Stakeholder Management
 - Business & Technical Requirement Translation
 - AI Architecture
 - System Design
-- Product Metrics
 - AI Evaluation
+- Product Metrics
 - Cost Optimization
 - Scalability Planning
 - Enterprise AI Adoption
@@ -206,14 +378,15 @@ My core focus is building **scalable enterprise AI products** using Generative A
 
 # 🚀 Featured AI Projects
 
-## 1️⃣ AnswerSmart
-### Enterprise Multilingual AI & RAG Platform
+## 01 — AnswerSmart
+
+### 🌐 Enterprise Multilingual AI & RAG Platform
 
 **0→1 Enterprise AI Product**
 
-An enterprise RAG platform supporting **English and Japanese** knowledge retrieval.
+An enterprise knowledge platform supporting **English and Japanese** enterprise document retrieval.
 
-### Key capabilities
+### 🧠 Key Capabilities
 
 - Agentic document processing
 - GPT-4 Vision document understanding
@@ -226,65 +399,74 @@ An enterprise RAG platform supporting **English and Japanese** knowledge retriev
 - Semantic caching
 - MCP integration
 
-### Impact
+### 📈 Impact
 
-**90% Retrieval Accuracy**
-
-**25% LLM Cost Reduction**
-
-**85% Improvement in Chunk Quality**
+| Metric | Result |
+|---|---:|
+| Retrieval Accuracy | **90%** |
+| Chunk Quality Improvement | **85%** |
+| LLM Cost Reduction | **25%** |
 
 ---
 
-## 2️⃣ DevX Copilot
-### Multi-Agent SDLC Engineering Copilot
+## 02 — DevX Copilot
+
+### 🤖 Multi-Agent SDLC Engineering Copilot
 
 A 0→1 GenAI product designed to automate software engineering workflows.
 
-### Architecture
+### Agent Architecture
 
-`Requirement Agent → Design Agent → Feedback Agent → Reviewer Agent`
+```text
+Requirement Agent
+       ↓
+Design Agent
+       ↓
+Feedback Agent
+       ↓
+Reviewer Agent
 
 ### Technology
 
 `LangGraph` · `LangChain` · `GPT-4` · `Claude` · `FAISS` · `FastAPI`
 
-### Impact
+### 📈 Impact
 
 **60% SDLC Activities Automated**
 
-**89% Retrieval Accuracy**
+**71% → 89% Retrieval Accuracy**
 
 **35% Developer Cycle-Time Reduction**
 
 ---
 
-## 3️⃣ AstraRAG
-### Production Agentic RAG Chatbot
+## 03 — AstraRAG
 
-A production-oriented RAG architecture using multi-agent reasoning and semantic retrieval.
+### 🔍 Production Agentic RAG Chatbot
+
+A production-oriented Agentic RAG system using multi-agent reasoning and semantic retrieval.
 
 ### Technology
 
 `CrewAI` · `LlamaIndex` · `ChromaDB` · `Groq` · `Llama 3.3 70B` · `AWS EC2`
 
-### Impact
+### 📈 Impact
 
 **92% Retrieval Accuracy**
 
-**4.2s → 2.5s Latency Improvement**
+**4.2s → 2.5s Latency**
 
 ---
 
-## 4️⃣ Azure Multi-Modal Compliance Engine
+## 04 — Azure Multi-Modal Compliance Engine
 
-AI-powered video and transcript compliance platform.
+### 🎥 AI-Powered Video & Transcript Compliance
 
 ### Technology
 
-`Azure Video Indexer` · `Azure AI Search` · `LangGraph` · `GPT-4o` · `LangSmith`
+`Azure Video Indexer` · `Azure AI Search` · `LangGraph` · `GPT-4o` · `LangSmith` · `Azure App Insights`
 
-### Impact
+### 📈 Impact
 
 **70% Manual Review Time Reduction**
 
@@ -292,61 +474,61 @@ AI-powered video and transcript compliance platform.
 
 ---
 
-## 5️⃣ Realtime Voice AI Agent
+## 05 — Realtime Voice AI Agent
 
-Low-latency voice RAG assistant combining speech, LLM and retrieval.
+### 🎙️ Low-Latency Voice RAG Assistant
 
 ### Technology
 
 `Deepgram` · `Groq` · `ElevenLabs` · `Pinecone` · `FastAPI` · `WebSockets` · `VAD`
 
-### Impact
+### 📈 Impact
 
 **<800ms End-to-End Latency**
 
 ---
 
-## 6️⃣ AI Financial Assistant
+## 06 — AI Financial Assistant
 
-AI-powered financial intelligence platform focused on domain-specific financial use cases.
+### 💰 AI-Powered Financial Intelligence
 
 ### Technology
 
-`GPT-4o` · `Azure AI Foundry` · `React` · `FastAPI` · `AWS CodePipeline`
+`GPT-4o` · `Azure AI Foundry` · `React` · `FastAPI`
 
-### Impact
+### 📈 Impact
 
 **34% Accuracy Improvement**
 
 ---
 
-## 7️⃣ Medical RAG Chatbot
+## 07 — Medical RAG Chatbot
 
-Multimodal medical knowledge assistant using LLM-powered retrieval and document intelligence.
+### 🏥 Multimodal Medical Knowledge Assistant
 
 ### Technology
 
 `Mistral` · `LangChain` · `FAISS` · `Python`
 
-### Impact
+### 📈 Impact
 
 **50% Accuracy Improvement**
 
 ---
 
-# 🌐 My Portfolio
+# 🌐 MY PORTFOLIO
 
-<p align="center">
+<div align="center">
 
 ### 🚀 Explore My AI Product Portfolio
 
 <a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/🚀%20OPEN%20AI%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Open AI Portfolio"/>
 </a>
 
-</p>
+<br/><br/>
 
-My portfolio includes:
+**Interactive portfolio showcasing:**
 
 `AI Product Management`
 
@@ -360,122 +542,192 @@ My portfolio includes:
 
 `AI Architecture`
 
-`Enterprise AI Solutions`
+`Enterprise AI`
 
-👉 **Portfolio:**  
-https://ankit-kumar-sahoo-portfolio.vercel.app/
+### 🔗
+
+<a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
+<strong>https://ankit-kumar-sahoo-portfolio.vercel.app/</strong>
+</a>
+
+</div>
 
 ---
 
 # 🏆 Certifications
 
-### ✅ SAFe® 6 Agile Certified
+<div align="center">
+
+🏅 **SAFe® 6 Agile Certified**
 
 **Scaled Agile**
 
-### ✅ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+<br/>
+
+☁️ **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
 **Oracle**
 
+</div>
+
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsahoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsahoo&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ankitsahoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsahoo&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsahoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Graph
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# ⚡ Animated Technology Stack
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" alt="Python"/>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" alt="Java"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" alt="Docker"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" alt="Kubernetes"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" alt="MySQL"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" alt="GitHub"/>
+
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitsahoo/ankitsahoo/output/github-contribution-grid-snake.svg" />
+<b>Python • Java • Docker • Kubernetes • MySQL • GitHub</b>
 </p>
 
 ---
 
-# 🔥 AI Stack
+# 🧠 AI Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,azure,aws,gcp,docker,kubernetes,postgres,mongodb,redis,git,github" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 
-</p>
+<img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge" alt="Agentic AI"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Advanced%20RAG-00BCD4?style=for-the-badge" alt="Advanced RAG"/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Advanced%20RAG-00BCD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8E44AD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8E44AD?style=for-the-badge" alt="Multi-Agent Systems"/>
 
-</p>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" alt="MCP"/>
+
+</div>
+
+---
+
+# 📚 What I Build
+
+```text
+                    ┌─────────────────────────┐
+                    │       AI PRODUCT        │
+                    └────────────┬────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+       GenAI / LLMs        Agentic AI          Advanced RAG
+             │                   │                   │
+             ▼                   ▼                   ▼
+        AI Features        Multi-Agent         Enterprise Search
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 │
+                                 ▼
+                     Enterprise AI Architecture
+                                 │
+                                 ▼
+                         Production AI Product
+```
 
 ---
 
 # 🔗 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/ankitsahoo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ankit-kumar-sahoo7281/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:ankitkumarsahoo7281@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-</p>
+<a href="https://ankit-kumar-sahoo-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
 # 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitsahoo&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ankitsahoo&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-## 🚀 Turning AI Ideas Into Enterprise Products
+### 🚀 Turning AI Ideas Into Enterprise Products
 
-### Generative AI • Agentic AI • Advanced RAG • Multi-Agent Systems • AI Product Management
+**Generative AI • Agentic AI • Advanced RAG • Multi-Agent Systems • AI Product Management**
 
-</p>
+<br/>
 
-<p align="center">
+> 💡 **"AI is not just about building models. It's about building products that solve real problems."**
 
-> **"AI is not just about building models. It's about building products that solve real problems."**
+<br/>
 
-</p>
+### ✨ Let's Build Something Intelligent Together.
+
+</div>
 
 ---
 
-## ☕ Support
+# ☕ Support
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.buymeacoffee.com/AnkitKumar">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-F7CA00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
 </a>
 
-</p>
-
-<p align="center">
+<br/><br/>
 
 ✨ Thanks for visiting my profile!
 
-</p>
+</div>
