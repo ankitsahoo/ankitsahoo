@@ -562,7 +562,6 @@ Oracle
 <div align="center">
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" alt="Python"/>
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" alt="Java"/>
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" alt="Docker"/>
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" alt="Kubernetes"/>
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" alt="MySQL"/>
